@@ -136,6 +136,8 @@ Packs
   Togu Audio Line plugins
 `X42 Plugins <https://x42-plugins.com/x42/>`_
   Collection of MIDI and meter plugins
+`NJL Plugins <https://github.com/linuxmao-org/njl-lv2/>`_
+  Njl plugins
 
 Effect Packs
 ------------
@@ -153,7 +155,7 @@ Effect Packs
   Creative plugins suitable for live use
 `SAFE Plugins <https://github.com/semanticaudio/SAFE>`_
   Semantic Audio Feature Extraction plugins
-`TAP Plugins <https://kx.studio/Repositories:Plugins>`_
+`TAP Plugins <https://github.com/moddevices/tap-lv2>`_
   Tom's Audio Processing plugins
 `Teragon Audio Plugins <https://kx.studio/Repositories:Plugins>`_
   Teragon Audio plugins
